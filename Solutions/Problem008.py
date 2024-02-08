@@ -9,7 +9,7 @@ EXPLANATION : This Python code iterates through a numerical string N of digits.
     checks if it is greater than the current maximum (max). 
     If so, it updates the maximum value. Finally, it prints the maximum product of 
     13 consecutive digits in the given numerical string N. The code effectively 
-    finds the maximum product of 13 adjacent digits in the provided sequence.
+    finds the maximum product of 13 adjacent digits in the provided sequence. 
 '''
 
 import time
