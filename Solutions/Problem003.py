@@ -5,7 +5,7 @@ What is the largest prime factor of the number 600851475143 ?
 ANSWER : 6857
 
 EXPLANATION : Using the logic that the largest Prime factor 
-iS always lesser tan the Square root of given Number.
+is always lesser tan the Square root of given Number.
 '''
 
 
