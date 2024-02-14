@@ -1,5 +1,6 @@
 '''
-    # LARGEST PALINDROME PRODUCT (004)
+# LARGEST PALINDROME PRODUCT (004)
+
 QUESTION : A palindromic number reads the same both ways.
     The largest palindrome made from the product of two 2-digit numbers 
     is 9009 = 91 * 99. Find the largest palindrome made from
@@ -11,9 +12,7 @@ EXPLANATION : It uses nested loops to iterate over three-digit
             numbers in reverse order, multiplies them, converts 
             the result to a string, and checks if it reads the same 
             backward as forward. When a palindrome is found, the loop breaks.
-
 '''
-
 
 def palindrome_3():
     for i in range(999,900,-1):
