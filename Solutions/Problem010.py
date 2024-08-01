@@ -3,6 +3,9 @@ Problem 10:
 QUESTION: 
 Summation of Primes - The sum of the primes below 10 is 2+3+5+7 = 17 
 Find the sum of all the primes below two million.
+
+ANSWER: 142913828922
+
 EXPLANATION: Sieve of Eratosthenes is used to find all the prime numbers below 2 million.
 '''
 import time
