@@ -8,6 +8,12 @@ QUESTION :
     below 1000.
 
 ANSWER : 233168
+
+EXPLANATION: 
+    Loop through the numbers below 1000
+    and add the number if it is divisible
+    by either 5 or 3.
+    
 '''
 #CODE - QUESTION 1 (PYTHON)
 summation = 0
