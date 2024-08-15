@@ -1,5 +1,5 @@
 '''
-QIESTION: Using names.txt having five-thousand first names, begin by sorting it into alphabetical order. 
+QUESTION: Using names.txt having five-thousand first names, begin by sorting it into alphabetical order. 
 Then working out the alphabetical value for each name, multiply this value by its 
 alphabetical position in the list to obtain a name score.
 
